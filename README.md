@@ -1,3 +1,8 @@
+![image]({https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white})
+<!--- https://github-readme-streak-stats.herokuapp.com/?user=ThijsSmolders
+https://github-readme-stats.vercel.app/api/top-langs/?username=ThijsSmolders
+https://github-readme-stats.vercel.app/api?username=ThijsSmolders --->
+
 - 👋 Hi, I’m @ThijsSmolders
 - 👀 I’m interested in addressing sustainability topics from materials scientist's perspective!
 - 🌱 I’m currently learning more about novel battery materials 🔋
